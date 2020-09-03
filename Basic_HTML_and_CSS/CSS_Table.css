@@ -1,0 +1,13 @@
+table {
+    border: 10px dashed black;
+}
+tr, th {
+    color: blue;
+}
+tr, td {
+    color: blue;
+}
+td:hover {
+    background-color: gold;
+    color: black;
+}

@@ -1,0 +1,9 @@
+p {
+    color: whitesmoke;
+    background-color: violet;
+    font-size: 17px;
+    text-align: center;
+}
+.p_unique {
+    text-shadow: 2px 2px black;
+}
